@@ -1,20 +1,20 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package kartyatrukk;
 
-/**
- *
- * @author somogyvari.m.peter
- */
+import java.util.Scanner;
+
 public class KartyaTrukk {
 
-    /**
-     * @param args the command line arguments
-     */
+    
+
+    private Scanner sc = new Scanner(System.in);
+
     public static void main(String[] args) {
-        // TODO code application logic here
+        int oszlop;
+        melyik(oszlop);
     }
     
+    private static void melyik(int oszlop) {
+        
+    }
+
 }
